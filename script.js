@@ -1,4 +1,4 @@
-var nome = "Fiap"
+/*var nome = "Fiap"
 console.log(nome)
 
 let nome1 = "cidade";
@@ -24,4 +24,17 @@ let aluno = true
 console.log(aluno)
 
 let tecnologias =["Java", "C#","HTML"]
-console.log(tecnologias)
+console.log(tecnologias)*/
+
+let numerofloat=123.456;
+console.log(parseInt(numerofloat))
+
+let numeroString= 654.321
+console.log(parseFloat(numeroString))
+
+let numeroInteiro= 789
+console.log(numeroInteiro.toString())
+
+let verTipo = typeof numeroInteiro
+console.log(verTipo)
+
